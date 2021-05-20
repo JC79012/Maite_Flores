@@ -1,2 +1,5 @@
-# Maite
-Get to know me
+# Maite Flores
+___ 
+
+  I always believed my dream was to be a doctor, working in a hospital saving lives. It appeared to be a suitable dream given my devotion to science and desire for change. I started my journey in chemistry, where I worked alongside my peers to tackle the challenges that were thrown our way. However, a part of me yearned something more, something different. By no means did I imagine myself developing an immense passion for coding. As a recent computer science graduate, I have learned the difficulties of coding, but the outcome always outshines the struggle. Luckily, I have learned that no matter how different or unusual, together we can take an idea and developed it into something great.  
+  I currently primarily code in C++, but no one language is better than another, therefore I also have skills coding in Python, SQL and Arduino IDE. While, I may not have become a doctor, my end goal has always remained the same, to improve and facilitate the lives of everyday individuals. My goal is to find a job that allows me to achieve my goal by not only allowing me to code but also challenging and pushing me to grow professionally. 
